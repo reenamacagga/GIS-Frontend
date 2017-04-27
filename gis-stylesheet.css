@@ -1,0 +1,58 @@
+/*********GENERAL**********/
+
+body {
+  text-align: center;
+
+}
+
+header {
+  background-color: white;
+}
+
+main-nav {
+  font-color: #60005c;
+}
+
+.logo {
+  align-items: flex-start;
+}
+
+
+
+/*********NAVBAR**********/
+
+.main-nav {
+  font-size: .85em;
+  clear: both;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.main-nav a {
+  padding: auto;
+  color: rgba(96, 0, 92, .7);
+  }
+
+/*********BODY**********/
+#wrapper {
+  background-color: rgba(96, 0, 92, 0.2);
+  width: 100%;
+}
+
+.holder {
+  background-color: rgba(96, 0, 92, 0.2);
+  width: 100%;
+}
+
+
+
+/*********FOOTER**********/
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgba(0,0,0,.4);
+}
